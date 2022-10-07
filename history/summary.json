@@ -1,6 +1,6 @@
 [
   {
-    "name": "KubernetesHound",
+    "name": "Kubernetes Hound",
     "url": "https://cs.k8s.io",
     "icon": "https://icons.duckduckgo.com/ip3/cs.k8s.io.ico",
     "slug": "kubernetes-hound",
@@ -10,11 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 284,
-    "timeWeek": 249,
-    "timeMonth": 249,
-    "timeYear": 249,
+    "time": 261,
+    "timeDay": 293,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Plausible",
+    "url": "https://paa.nabarun.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/paa.nabarun.dev.ico",
+    "slug": "plausible",
+    "status": "down",
+    "uptime": "30.35%",
+    "uptimeDay": "30.35%",
+    "uptimeWeek": "30.35%",
+    "uptimeMonth": "30.35%",
+    "uptimeYear": "30.35%",
+    "time": 1072,
+    "timeDay": 1072,
+    "timeWeek": 1072,
+    "timeMonth": 1072,
+    "timeYear": 1072,
+    "dailyMinutesDown": {
+      "2022-10-07": 0
+    }
   }
 ]
