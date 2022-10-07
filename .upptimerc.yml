@@ -2,17 +2,17 @@ owner: palnabarun
 repo: status
 
 sites:
-  - name: KubernetesHound
+  - name: Kubernetes Hound
     url: https://cs.k8s.io
+  - name: Plausible
+    url: https://paa.nabarun.dev
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nabarun.top
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: "Uptime status for Kubernetes Hound (cs.k8s.io)"
+  name: Uptime Monitoring
+  introTitle: ""
+  introMessage: "Uptime status for services like Kubernetes Hound (cs.k8s.io) and Plausible (paa.nabarun.dev)"
   navbar:
-    - title: Status
+    - title: Home
       href: /
