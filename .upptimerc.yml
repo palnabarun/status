@@ -6,6 +6,8 @@ sites:
     url: https://cs.k8s.io
   - name: Plausible
     url: https://paa.nabarun.dev
+    expectedStatusCodes:
+    - 302
 
 status-website:
   cname: status.nabarun.top
