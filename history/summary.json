@@ -4,18 +4,20 @@
     "url": "https://cs.k8s.io",
     "icon": "https://icons.duckduckgo.com/ip3/cs.k8s.io.ico",
     "slug": "kubernetes-hound",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 279,
-    "timeWeek": 247,
-    "timeMonth": 247,
-    "timeYear": 247,
-    "dailyMinutesDown": {}
+    "time": 256,
+    "timeDay": 310,
+    "timeWeek": 256,
+    "timeMonth": 256,
+    "timeYear": 256,
+    "dailyMinutesDown": {
+      "2022-10-10": 0
+    }
   },
   {
     "name": "Plausible",
@@ -34,7 +36,7 @@
     "timeMonth": 1622,
     "timeYear": 1622,
     "dailyMinutesDown": {
-      "2022-10-10": 114,
+      "2022-10-10": 344,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 728
