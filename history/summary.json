@@ -4,7 +4,7 @@
     "url": "https://cs.k8s.io",
     "icon": "https://icons.duckduckgo.com/ip3/cs.k8s.io.ico",
     "slug": "kubernetes-hound",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
     "uptimeDay": "70.65%",
     "uptimeWeek": "95.81%",
@@ -51,7 +51,7 @@
     "timeMonth": 0,
     "timeYear": 1180,
     "dailyMinutesDown": {
-      "2023-06-16": 1090,
+      "2023-06-16": 1213,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
