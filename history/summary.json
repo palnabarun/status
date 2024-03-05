@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs.k8s.io.ico",
     "slug": "kubernetes-hound",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.85%",
     "time": 234,
-    "timeDay": 47,
-    "timeWeek": 224,
-    "timeMonth": 252,
+    "timeDay": 120,
+    "timeWeek": 233,
+    "timeMonth": 253,
     "timeYear": 236,
     "dailyMinutesDown": {
       "2023-11-14": 23,
@@ -43,13 +43,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
-    "time": 1171,
+    "time": 1170,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1144,
+    "timeYear": 1142,
     "dailyMinutesDown": {
-      "2024-03-04": 56,
+      "2024-03-05": 55,
+      "2024-03-04": 1440,
       "2024-03-03": 1440,
       "2024-03-02": 1440,
       "2024-03-01": 1440,
@@ -412,8 +413,7 @@
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
-      "2023-03-07": 1440,
-      "2023-03-06": 1440
+      "2023-03-07": 1440
     }
   }
 ]
