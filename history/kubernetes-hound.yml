@@ -1,7 +1,7 @@
 url: https://cs.k8s.io
-status: down
-code: 502
-responseTime: 156
-lastUpdated: 2026-07-22T06:04:57.908Z
+status: up
+code: 200
+responseTime: 158
+lastUpdated: 2026-07-22T08:40:20.809Z
 startTime: 2022-10-05T15:01:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
