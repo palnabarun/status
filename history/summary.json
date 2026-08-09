@@ -6,13 +6,13 @@
     "slug": "kubernetes-hound",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "94.57%",
-    "uptimeWeek": "98.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.57%",
     "uptimeMonth": "96.95%",
     "uptimeYear": "98.68%",
     "time": 163,
-    "timeDay": 145,
-    "timeWeek": 152,
+    "timeDay": 194,
+    "timeWeek": 155,
     "timeMonth": 151,
     "timeYear": 165,
     "dailyMinutesDown": {
@@ -92,7 +92,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-08": 85,
+      "2026-08-09": 98,
+      "2026-08-08": 1440,
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
@@ -455,8 +456,7 @@
       "2025-08-13": 1440,
       "2025-08-12": 1440,
       "2025-08-11": 1440,
-      "2025-08-10": 1440,
-      "2025-08-09": 1440
+      "2025-08-10": 1440
     }
   }
 ]
