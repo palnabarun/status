@@ -4,16 +4,16 @@
     "url": "https://cs.k8s.io",
     "icon": "https://icons.duckduckgo.com/ip3/cs.k8s.io.ico",
     "slug": "kubernetes-hound",
-    "status": "up",
-    "uptime": "99.18%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.08%",
-    "uptimeMonth": "96.60%",
+    "status": "down",
+    "uptime": "99.20%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "97.07%",
+    "uptimeMonth": "96.88%",
     "uptimeYear": "98.63%",
     "time": 162,
-    "timeDay": 104,
-    "timeWeek": 133,
-    "timeMonth": 146,
+    "timeDay": 110,
+    "timeWeek": 132,
+    "timeMonth": 145,
     "timeYear": 165,
     "dailyMinutesDown": {
       "2025-08-29": 15,
@@ -74,7 +74,8 @@
       "2026-08-04": 66,
       "2026-08-07": 78,
       "2026-08-10": 143,
-      "2026-08-12": 151
+      "2026-08-12": 151,
+      "2026-08-15": 0
     }
   },
   {
@@ -94,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 68,
+      "2026-08-15": 1022,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
